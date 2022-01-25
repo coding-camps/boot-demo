@@ -1,0 +1,39 @@
+### Build ###
+build/
+target/
+
+### Build tool ###
+.mvn/
+mvnw
+mvnw.cmd
+
+### IDE commons ###
+build/
+target/
+dist/
+
+### Jetbrains IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
